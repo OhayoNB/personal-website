@@ -230,6 +230,10 @@ img {
         text-align: center;
         width: 100%;
         grid-area: captcha;
+        div {
+          display: inline-block;
+          margin: 0 auto;
+        }
       }
       .name-input {
         grid-area: name;
