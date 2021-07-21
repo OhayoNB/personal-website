@@ -445,7 +445,7 @@ img {
   .item-text-description {
     display: none; }
   #contact-a .text-fields {
-    grid-template-areas: "name" "subject" "email" "phone" "message"; }
+    grid-template-areas: "name" "subject" "email" "phone" "message" "captcha"; }
   #contact-a form {
     max-width: 100%; }
   #contact-b div {
